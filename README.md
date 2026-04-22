@@ -27,6 +27,7 @@ Overall, this project demonstrates the complete lifecycle of a data analytics so
 SQL – Data extraction, joins, aggregations, and query optimization
 Python (Pandas) – Data cleaning, transformation, and feature engineering
 Power BI – Data visualization and dashboard development
+
 🚀 Key Highlights
 End-to-end ETL pipeline for handling large, multi-table datasets
 Data modeling and aggregation for efficient analysis
