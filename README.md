@@ -35,3 +35,5 @@ Vendor-level profitability and performance evaluation
 Business-driven insights for pricing and inventory optimization
 Interactive dashboard for stakeholder reporting
 
+Dashboard (vf.png)
+
